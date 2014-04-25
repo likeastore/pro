@@ -63,15 +63,6 @@
     padding: 0px 15px;
   }
 
-  .box .left,
-  .box .right {
-    float: none;
-  }
-
-  .box.words-block {
-    text-align: left;
-  }
-
   .point .block-info,
   .point .block-text {
     width: 100%;
@@ -118,18 +109,9 @@
   }
 }
 
-@media (max-width: 530px) {
-  .browser {
-    width: 360px;
-    height: 385px;
-  }
-
-  .browser img {
-    bottom: -180px;
-  }
-
-  .browser:hover img {
-    bottom: 70px;
+@media (max-width: 560px) {
+  .form {
+    width: 96%;
   }
 
   .footer-wrap ul {
@@ -150,64 +132,5 @@
 
   .copy {
     font-size: 8px;
-  }
-}
-
-@media (max-width: 340px) {
-  .create-account-wrap {
-    height: 340px;
-  }
-
-  .point {
-    height: 520px;
-  }
-}
-
-@media (max-width: 600px) {
-  .password-wrap {
-    width: 95%;
-  }
-}
-
-@media (max-width: 440px) {
-  .logo {
-    width: 180px;
-  }
-
-  .forms-wrap {
-    margin-top: 60px;
-  }
-
-  .join-wrap,
-  .setup-wrap {
-    width: 95%;
-  }
-
-  .form {
-    padding: 30px 25px;
-  }
-
-  .auth-btn {
-    width: 80%;
-  }
-
-  .auth-btn.facebook {
-    margin-right: 0;
-  }
-
-  .separator:before {
-    left: 25px;
-  }
-
-  .separator:after {
-    right: 25px;
-  }
-
-  .password-wrap .btn {
-    padding: 15px;
-  }
-
-  .back-link {
-    font-size: 14px;
   }
 }

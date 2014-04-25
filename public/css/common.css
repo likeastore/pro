@@ -214,7 +214,6 @@ h3 {
   font: 500 2.5em/1.2em 'Montserrat', 'Source Sans Pro', 'Lato', 'Helvetica', 'Arial', sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
-  width: 800px;
 }
 
 .words-desc {
@@ -450,17 +449,8 @@ h3 {
 
 .footer-wrap {
   background: #fff;
-  padding-top: 50px;
-  height: 250px;
-}
-
-.footer-wrap hr {
-  display: block;
-  height: 1px;
-  border: none;
-  border-top: solid 1px #ccc;
-  width: 25%;
-  margin: 50px auto 0;
+  padding-top: 30px;
+  height: 210px;
 }
 
 .footer-wrap ul {

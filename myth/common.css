@@ -215,7 +215,6 @@ h1, h2, h3 {
 	font: 500 2.5em/1.2em var(title-font);
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	width: 800px;
 }
 
 .words-desc {
@@ -441,17 +440,8 @@ h1, h2, h3 {
 
 .footer-wrap {
 	background: #fff;
-	padding-top: 50px;
-	height: 250px;
-}
-
-.footer-wrap hr {
-	display: block;
-	height: 1px;
-	border: none;
-	border-top: solid 1px #ccc;
-	width: 25%;
-	margin: 50px auto 0;
+	padding-top: 30px;
+	height: 210px;
 }
 
 .footer-wrap ul {
@@ -763,11 +753,11 @@ label {
 }
 
 .logo {
-  display: inline-block;
-  background: url('../img/logo-likeastore-pink.png') no-repeat center transparent;
-  -webkit-background-size: 100%;
-  background-size: 100%;
-  width: 140px;
-  height: 20px;
-  cursor: pointer;
+	display: inline-block;
+	background: url('../img/logo-likeastore-pink.png') no-repeat center transparent;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 140px;
+	height: 20px;
+	cursor: pointer;
 }
