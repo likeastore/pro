@@ -1,8 +1,4 @@
-# Likeastore Application Tour
-
-### [Demo](http://tour.likeastore.com)
-
-[![](http://d13yacurqjgara.cloudfront.net/users/17725/screenshots/1382031/likeastore-tour-bottom.png)](http://dribbble.com/shots/1382031-tour)
+# Likeastore Pro site
 
 ### Developing
 
