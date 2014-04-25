@@ -1,0 +1,27 @@
+{
+  "name": "likeastore-tour",
+  "version": "0.0.0",
+  "description": "Product tour of amazing likeastore app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "likeastore",
+    "app",
+    "tour"
+  ],
+  "author": "Likeastore Inc.",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "connect": "~2.12.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.2.1",
+    "gulp-myth": "~0.1.0",
+    "gulp-minify-css": "~0.2.0",
+    "gulp-concat": "~2.1.7",
+    "gulp-rename": "~0.2.2",
+    "gulp-uglify": "~0.1.0"
+  }
+}
